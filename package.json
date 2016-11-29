@@ -1,0 +1,11 @@
+{
+  "name": "extension-storage",
+  "version": "1.0.0",
+  "description": "对扩展中的存储进行封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiao.mu",
+  "license": "ISC"
+}
